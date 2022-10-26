@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.29)  26 OCT 2022 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.29)  27 OCT 2022 00:15
 entering extended mode
 **./main.tex
 (main.tex
@@ -1813,19 +1813,38 @@ Underfull \hbox (badness 1845) in paragraph at lines 185--186
 \OT1/PTSerif-TLF/m/n/12 %$\T2A/PTSerif-TLF/m/n/12 . Ёто подтверждает
  []
 
-[5] [6] [7] (main.aux)
+[5] [6] [7] [8]
+Underfull \hbox (badness 3482) in paragraph at lines 386--387
+[]\T2A/PTSerif-TLF/m/n/12 17) —истематическа€ погрешность равна $\OT1/PTSerif-T
+LF/m/n/12 0\OML/npxmi/m/it/12 :\OT1/PTSerif-TLF/m/n/12 4[][]$\T2A/PTSerif-TLF/m
+/n/12 , т.е. совпадает с предыдущим
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 386--387
+\T2A/PTSerif-TLF/m/n/12 расчетом(основной вклад вносит величина $\OML/npxmi/m/i
+t/12 y[]$ \T2A/PTSerif-TLF/m/n/12 в числителе). –асчет полностью
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 390--391
+[]\T2A/PTSerif-TLF/m/n/12 18) ѕредпочтителен метод наименьших квадратов, он опу
+скает погрешность не
+ []
+
+[9] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35692 strings out of 478864
- 841454 string characters out of 2846764
- 1281320 words of memory out of 3000000
- 52760 multiletter control sequences out of 15000+600000
+ 36121 strings out of 478864
+ 854041 string characters out of 2846764
+ 1285318 words of memory out of 3000000
+ 53189 multiletter control sequences out of 15000+600000
  458295 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,125p,1552b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,12n,125p,1552b,2091s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/User12345/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/paratype/pt
 serif_ot1.enc}{C:/Users/User12345/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
 /paratype/ptserif_t2a.enc}<C:/Users/User12345/AppData/Local/Programs/MiKTeX/fon
@@ -1837,9 +1856,9 @@ ser12345/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxmiaX.pfb><C:/
 Users/User12345/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxsys.pf
 b><C:/Users/User12345/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/tx
 exs.pfb>
-Output written on main.pdf (7 pages, 118367 bytes).
+Output written on main.pdf (9 pages, 128888 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
